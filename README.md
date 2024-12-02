@@ -2,8 +2,8 @@
 
 ## 🌟 Quick Access Links
 Explore the project details using these resources:
-- 📓 **[Jupyter Notebook 1](./course5_project1.ipynb)**: Guest behavior analysis and booking trends.
-- 📓 **[Jupyter Notebook 2](./course5_Project2.ipynb)**: Pricing strategies and revenue optimization.
+- 📓 **[Jupyter Notebook 1](./course5_project1%20(1).ipynb)**: Guest behavior analysis and booking trends.
+- 📓 **[Jupyter Notebook 2](./course5_Project2%20(1).ipynb)**: Pricing strategies and revenue optimization.
 - 📊 **[PDF Presentation](./Course_5_project_ppt.pdf)**: High-level summary of findings and recommendations.
 
 ---
